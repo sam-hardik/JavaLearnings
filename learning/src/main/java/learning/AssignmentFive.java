@@ -3,7 +3,7 @@ package learning;
 class AssignmentFive {
 	private int id,monthlyBasic;
 	private String name;
-	float pfRate;
+	private float pfRate;
 	AssignmentFive(int id,int monthlyBasic,String name){
 		this.id=id;
 		this.monthlyBasic=monthlyBasic;
